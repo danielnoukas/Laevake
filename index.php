@@ -123,7 +123,7 @@
   <div class="row"> 
     <div class="col-md-12 text-center">
 
-        <h2>Hakkas meeldima? Lae äpp alla juba tänä ja sõida mugavalt!</h2>  
+        <h2>Hakkas meeldima? Lae äpp alla juba täna ja sõida mugavalt!</h2>  
          
         <div class="row"> 
           <div class="col-xs-6 text-right" style="padding-top:50px;">
